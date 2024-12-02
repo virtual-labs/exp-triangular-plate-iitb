@@ -1,0 +1,1 @@
+<h2> AIM: To find Hydrostatic force on triangular plate. </h2>
