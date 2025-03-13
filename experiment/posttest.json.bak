@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The density of the liquid is 900kg/m3. The upper edge of triangular plate coincides with liquid surface. Find the position of the centre of pressure. Take h = 3.1 m, b = 3.1 m. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "1.28 m",
+        "option_b": "1.73 m",
+        "option_c": "1.45 m",
+        "option_d": "1.55 m",
+        "correct_option": "d"
+    },
+    {
+        "question": "The density of the liquid is 900kg/m3. The upper edge of triangular plate coincides with liquid surface. Find the position of the centre of pressure. Take h = 4.7 m, b = 4.7 m. Refer figure in the simulator.",
+        "qid": 2,
+        "option_a": "2.35 m",
+        "option_b": "2.46 m",
+        "option_c": "2.87 m",
+        "option_d": "2.25 m",
+        "correct_option": "a"
+    }
+]
